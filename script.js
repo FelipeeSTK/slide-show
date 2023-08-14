@@ -1,9 +1,9 @@
 var slide = document.querySelector('.slideshow');
 var imagens = [
-    "./img/01.jpg",
-    "./img/02.jpg",
-    "./img/03.jpg",
-    "./img/04.jpg"
+    "https://blog.venturas.com.br/wp-content/uploads/2016/08/costa-rica-a-opcao-ideal-para-o-turismo-de-natureza-na-america-latina.jpeg",
+    "https://www.vidadeturista.com/wp-content/uploads/2019/07/natureza-orlando-praias-regiao-530x354.jpg",
+    "https://p4.wallpaperbetter.com/wallpaper/362/276/920/nature-4k-pc-full-hd-wallpaper-preview.jpg",
+    "https://p4.wallpaperbetter.com/wallpaper/639/977/196/download-nature-for-pc-1920x1080-wallpaper-preview.jpg"
 ];
 var intervalo = 1500;
 var index = 0;
